@@ -1,46 +1,38 @@
 # Movie Trailer Website
 
-One Paragraph of project description goes here
+Simple dynamic website that shows a bunch movies and trailers.
+The home page shows my six favourite movies, other pages are self explanatory.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Clone this repo, rename "tmdbapi/sample-config.py" to "tmdbapi/config.py" and fill in your TMDB API key.
+* Open your dev console to the root of this project and run
+```pip install -r requirements.txt```
+* Run "run.py", your browser should open pointing to 127.0.0.1:5000 showing the home page.
+
+## For Udacity reviewer
+Inside the zip file uploaded there's already a compiled config.pyc file, so please skip the first step of the previous paragraph.
+
+### Note
+If for any reason your port 5000 is already taken feel free to change it. 
+Inside "run.py" there are 2 occurences, make sure they match.
 
 ### Prerequisites
 
 Phyton 2.7
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Pipenv 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+This project is not meant to be deployed on a real live system.
 
 ## Built With
 
-* [Flask](http://flask.pocoo.org/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [Flask](http://flask.pocoo.org/) - Web framework
+* [Pipenv](https://github.com/pypa/pipenv) - Packaging tool
+* [TMDB API](https://www.themoviedb.org/documentation/api) - Data source
 
 ## Author
 
 * **Christopher Viola**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

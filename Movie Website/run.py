@@ -11,4 +11,4 @@ def start_browser():
 
 browser_thread = threading.Thread(target=start_browser)
 browser_thread.start()
-app.run()
+app.run(host='127.0.0.1', port=5000)
