@@ -3,3 +3,6 @@ config.py
 *.pyc
 __pycache__
 .ipynb_checkpoints
+*.pyc
+*.pyc
+Movie Website/media.pyc
