@@ -1,6 +1,12 @@
+'''
+    Contains class definitions for some media types.
+    Retrieved from Udacity's Full Stack Developer Nanodegree.
+'''
+
 class Movie():
     '''
-        Movie class from Udacity course.
+        Movie class from Udacity course. 
+        Holds data for a movie.
     '''
 
     def __init__(self, movie_title, movie_storyline,
