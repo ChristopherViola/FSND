@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"gul",
+				"gulpIf"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ro",
+				"rotateY"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"movie",
+				"movie_list"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "auto",
+		"selected_items":
+		[
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"AutoPEP8: Preview Changes"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/krisi/Desktop/FSND/Movie Website/entertainment_center.py",
+		"/C/Users/krisi/Desktop/FSND/Movie Website/media.py",
+		"/C/Users/krisi/Desktop/FSND/Movie Website/tmdbapi/tmdbbase.py",
+		"/C/Users/krisi/Desktop/FSND/Movie Website/tmdbapi/__init__.py",
+		"/C/Users/krisi/Desktop/FSND/Movie Website/templates/media.html",
+		"/C/Users/krisi/Desktop/FSND/Lesson 9 - Movie Website/fresh_tomatoes.html",
+		"/C/wamp64/www/mfr/public/index.php",
+		"/C/wamp64/www/mfr/public/ajax.php",
+		"/C/wamp64/www/mfr/src/vendor/application/application/src/Application/Database.php",
+		"/C/wamp64/www/mfr/src/vendor/application/application/src/Application/Debug.php",
+		"/C/wamp64/www/mfr/src/vendor/composer/installed.json",
+		"/C/wamp64/www/mfr/src/composer.json",
+		"/C/wamp64/www/mfr/config/config.inc.php",
+		"/C/wamp64/www/slim_test/index.php",
+		"/C/wamp64/www/slim_test/.htaccess",
+		"/C/Users/krisi/Desktop/dev/base_project/gulpfile.js",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+		"/C/Users/krisi/Desktop/dev/base_project/dist/index.html",
+		"/C/Users/krisi/Desktop/dev/base_project/app/index.html",
+		"/C/Users/krisi/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/krisi/AppData/Roaming/Sublime Text 3/Packages/Emmet/emmet_completions/__init__.py",
+		"/C/Users/krisi/Desktop/dev/base_project/package.json",
+		"/C/Users/krisi/Desktop/Movie Website/templates/media.html",
+		"/C/Users/krisi/Desktop/Movie Website/templates/layout.html",
+		"/C/Users/krisi/Desktop/Movie Website/entertainment_center.py",
+		"/C/Users/krisi/Desktop/Movie Website/run_me.sh",
+		"/C/Users/krisi/Desktop/Lesson 9 - Movie Website/entertainment_center.py",
+		"/C/Users/krisi/Desktop/FSND/Lesson 9 - Movie Website/entertainment_center.py",
+		"/C/Users/krisi/Desktop/Lesson 9 - Movie Website/config.pyc",
+		"/C/Users/krisi/Desktop/FSND/Lesson 9 - Movie Website/media.py",
+		"/C/Users/krisi/Desktop/FSND/Lesson 9 - Movie Website/fresh_tomatoes.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "movie trailer website.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

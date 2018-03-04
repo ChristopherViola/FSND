@@ -13,7 +13,7 @@ class TMDBList(TMDBBase):
         Get Details :   Working thru info()
         Others      :   To be implemented
     '''
-    
+
     def __init__(self, id):
         self.id = id
 

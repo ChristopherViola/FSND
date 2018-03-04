@@ -12,18 +12,18 @@ class TMDBMovie(TMDBBase):
     API method  :   Status
 
     Get Details :   Working thru info()
-    
+
     Get Videos  :   Working thru videos()
-    
+
     Get Popular :   Working thru popular() (static method)
-    
+
     Get Top Rated :   Working thru top_rated() (static method)
 
     Get Upcoming :   Working thru upcoming() (static method)
 
     Others      :   To be implemented
     '''
-    
+
     def __init__(self, id):
         self.id = id
 
