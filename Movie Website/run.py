@@ -5,6 +5,10 @@ import webbrowser
 
 
 def start_browser():
+    '''
+        Open your web browser after a short delay
+        that should be enough to let Flask's server start.
+    '''
     time.sleep(1)
     webbrowser.open('http://127.0.0.1:5000/')
 
