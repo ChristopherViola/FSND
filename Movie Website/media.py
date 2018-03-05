@@ -3,9 +3,10 @@
     Retrieved from Udacity's Full Stack Developer Nanodegree.
 '''
 
+
 class Movie():
     '''
-        Movie class from Udacity course. 
+        Movie class from Udacity course.
         Holds data for a movie.
     '''
 
